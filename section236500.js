@@ -4,7 +4,7 @@ A. Furnish labor, materials, tools, equipment, and services for Cooling Tower - 
 B. Completely coordinate with work of other trades.
 1.2 QUALITY ASSURANCE
 A. Thermal Performance Standard:
-1. Cooling Tower Institute (CTI), Certification Standard STD-201 For Water Cooling Towers.
+1. Cooling Tower Institute (CTI), Certification Standard STD-201 For Water Cooling Towersss.
 B. Listed Manufacturers and Manufacturers Desiring Approval:
 1. Meet dimensions of base manufacturer without affecting the pad or enclosure layout shown
 on the contract documents or ability to service equipment.
