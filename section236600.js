@@ -12,7 +12,7 @@ on the contract documents or ability to service equipment.
 1.3 SUBMITTALS
 A. Shop Drawings:
 1. Layout of cooling tower with connection sizes and locations.
-2. Layout of sump tank sweeper edudddddctors and associated piping. Pipe sizes shall be as
+2. Layout of sump tank sweeper eductors and associated piping. Pipe sizes shall be as
 recommended by manufacturer. Include calculations confirming eductor flow and system
 performance coordinated with pumping supply system.
 3. All listed manufacturers shall meet the dimensions of base manufacturer without affecting
