@@ -29,7 +29,9 @@ a. See Section 01 78 23.
 1.4 WARRANTY
 A. Signed Manufacturer Warranty:
 1. Guarantee drift eliminators, fill and supports for 18 months after substantial completion.
-2. {{ mass edit id2: Provide 60 month }} comprehensive motor and drive warranty to include fan, fan shaft, belts,
+2. {{ mass edit id4: }}
+
+{{ mass edit id2: Provide 60 month }} comprehensive motor and drive warranty to include fan, fan shaft, belts,
 sheaves, fan bearings, gear box, flexible coupling, driveshaft and motor. Guarantee to begin after substantial completion.
 B. Provide full parts and labor manufacturer warranty to include parts, labor, travel time, and incurred expenses.
 C. Warranty to cover from date of start up to date of substantial completion, plus an additional 60 month parts and labor manufacturer warranty from date of substantial completion..
@@ -65,7 +67,7 @@ diffusing type metering orifices.
 2. Furnish distribution basin with flanged connections suitable for direct piping connection or
 flow control valves as indicated.
 3. Provide basin covers.
-{{ mass edit id1: 4. Basin construction: Heavy gauge type 304 stainless steel.}}
+Basin construction: Heavy gauge {{ mass edit id1: type 304 stainless steel.}}
 5. For crossflow towers (gravity type basin), provide heavy duty flow control valves at inlet to
 each basin or self-balancing chamber as indicated.
 6. Each tower cell shall be capable of reduced flow at 25% of design flow while maintaining
@@ -91,7 +93,7 @@ a. Motor:
 3) Mount motors out of fan cylinder.
 b. Drive:
 1) Right angle, industrial duty, oil lubricated, geared speed reducer type.
-{{ template id1: c. Provide variable frequency drive for control of fan motor. Refer to specification section 25 23 00 for requirements. (Tower motor VFD)}}
+{{ template id1: c. Provide variable frequency drive for control of fan motor. Refer to specification section 25 23 00 for requirements. (Tower motor VFD) }}
 d. Fan cylinder: Designed to minimize fan tip loss.
 e. Fan cowl and guard: Conical shape welded stainless steel with hot dipped galvanized
 steel guard, conforming to OSHA standards. Provide over each fan cylinder.
