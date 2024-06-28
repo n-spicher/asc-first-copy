@@ -29,7 +29,7 @@ a. See Section 01 78 23.
 1.4 WARRANTY
 A. Signed Manufacturer Warranty:
 1. Guarantee drift eliminators, fill and supports for 18 months after substantial completion.
-2. {{ mass edit id2: Provide 60 month }} comprehensive motor and drive warranty to include fan, fan shaft, belts,
+2. Provide {{ mass edit id3: 60 month }} comprehensive motor and drive warranty to include fan, fan shaft, belts,
 sheaves, fan bearings, gear box, flexible coupling, driveshaft and motor. Guarantee to begin after substantial completion.
 B. Provide full parts and labor manufacturer warranty to include parts, labor, travel time, and incurred expenses.
 C. Warranty to cover from date of start up to date of substantial completion, plus an additional 60 month parts and labor manufacturer warranty from date of substantial completion..
@@ -54,21 +54,20 @@ to 30 LBS per square foot. Fan deck and basin covers designed for 50 LBS per squ
 2. Self-cleaning and complete with depressed center section, clean out and drain fitting,
 bottom outlet suction connection with screen and anti-cavitation device. Bottom outlet shall
 have grooved mechanical or flanged connection.
-3. Construction: Heavy gauge type 304 stainless steel.
-4. Makeup valve: Float operated; one per tower cell.
-5. Design to support tower when resting on only 2 grillage beams or 4 piers per cell.
+3. Makeup valve: Float operated; one per tower cell.
+4. Design to support tower when resting on only 2 grillage beams or 4 piers per cell.
 D. Multiple Cell Towers:
 1. Provide bottom equalizer connection for connection to equalizer piping.
-E. Hot
+E. Hot Water Upper Construction: {{ mass edit id2: Heavy gauge type 304 stainless steel. }}
 1. Open basin gravity type with nozzles or schedule 40 PVC spray header with plastic
 diffusing type metering orifices.
 2. Furnish distribution basin with flanged connections suitable for direct piping connection or
 flow control valves as indicated.
 3. Provide basin covers.
-{{ mass edit id1: 4. Basin construction: Heavy gauge type 304 stainless steel.}}
-5. For crossflow towers (gravity type basin), provide heavy duty flow control valves at inlet to
+5. Basin construction: {{ mass edit id1: Heavy gauge type 304 stainless steel. }}
+6. For crossflow towers (gravity type basin), provide heavy duty flow control valves at inlet to
 each basin or self-balancing chamber as indicated.
-6. Each tower cell shall be capable of reduced flow at 25% of design flow while maintaining
+7. Each tower cell shall be capable of reduced flow at 25% of design flow while maintaining
 wet fill without any dry fill surfaces.
 Johns Hopkins University Applied Physics Laboratory Building 14 SI3 - 100% Issue for Construction - July 23, 2018 COOLING TOWER - PACKAGED
 23 65 13 - 2
@@ -91,14 +90,14 @@ a. Motor:
 3) Mount motors out of fan cylinder.
 b. Drive:
 1) Right angle, industrial duty, oil lubricated, geared speed reducer type.
-{{ template id1: c. Provide variable frequency drive for control of fan motor. Refer to specification section 25 23 00 for requirements. (Tower motor VFD)}}
+{{ template id1: c. Provide variable frequency drive for control of fan motor. Refer to specification section 25 23 00 for requirements. (Tower motor VFD) }}
 d. Fan cylinder: Designed to minimize fan tip loss.
 e. Fan cowl and guard: Conical shape welded stainless steel with hot dipped galvanized
 steel guard, conforming to OSHA standards. Provide over each fan cylinder.
 H. For crossflow towers, provide perimeter OSHA approved handrail of 1-1/2 IN diameter galvanized steel pipe on top of tower and an OSHA approved ladder to provide access from base of tower to fan deck.
 I. Internal access: provide internal galvanized steel bar grating walkway for access to drift eliminators and fan plenum section. Top of grating shall be above the cold water basin overflow level.
-J. Make up Float Valve Assembly
-1. Make up float assembly shall be a mechanical brass valve with an adjustable plastic
+{{ template id4: J. Make up Float Valve Assembly }}
+{{ template id5: 1. Make up float assembly shall be a mechanical brass valve with an adjustable plastic }}
 Float.
 {{ template id2: J. Cold Water Basin Heaters:
 1. Provide two (2) 12 kW electric heaters installed at opposite sides of basin and ready for
@@ -119,7 +118,7 @@ d. Provide a control wiring diagram for the pan heater thermostat control with t
 {{ template id3: K. Vibration Limit Switch (one per tower cell):
 1. Type: Single pole, double-throw, vibration limit switch.
 2. Housing: NEMA 4.
-3. Provide with manual reset. (Vibration cutout switch)}}
+3. Provide with manual reset. (Vibration cutout switch) }}
 Johns Hopkins University Applied Physics Laboratory Building 14 SI3 - 100% Issue for Construction - July 23, 2018 COOLING TOWER - PACKAGED
 23 65 13 - 3
 
@@ -130,7 +129,7 @@ panel.
 7. In the event of excessive vibration, the limit switch will interrupt power to the motor.
 2.3 VIBRATION ISOLATION
 A. Vibration Isolation: Section 20 05 50.
-2.4 BASIN CLEANER SYSTEM
+{{ template id6: 2.4 BASIN CLEANER SYSTEM
 A. Basin cleaner system shall serve the cold water basin of the cooling towers.
 B. Separator package:
 1. Factory assembled, prewired, prepiped system with the following:
@@ -162,7 +161,7 @@ PART 3 -
 Provide tank sweeper eductors in basin. Number of eductors and eductor installation pattern shall be as recommended by the factory.
 Piping within sump: schedule 80 PVC.
 Pipe supports: Stainless steel.
-Eductor submergence: in accordance with manufacturer's recommendations for the eductor size used.
+Eductor submergence: in accordance with manufacturer's recommendations for the eductor size used. }}
 EXECUTION
 3.1 INSTALLATION
 A. Install components in accordance with manufacturer's instructions and as indicated.
